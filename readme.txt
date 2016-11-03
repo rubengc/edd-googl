@@ -42,6 +42,10 @@ OR you can just install it with WordPress by going to Plugins >> Add New >> and 
 
 == Screenshots ==
 
+1. Screenshot from download edit page
+
+2. Screenshot from EDD settings page
+
 == Upgrade Notice ==
 
 == Changelog ==
